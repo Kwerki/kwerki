@@ -16,7 +16,7 @@
         <div class="introducing">
             <div class="absatz">
                 <p>
-                    Ich habe an der Hochschule für Technik, Wirtschaft und Kultur in Leipzig<br>
+                    Ich habe an der Hochschule für Technik, Wirtschaft und Kultur in Leipzig
                     <a href="https://www.htwk-leipzig.de/studieren/studiengaenge/bachelorstudiengaenge/medieninformatik"
                         target="_blank" rel="noopener noreferrer">
                         Medieninformatik B.Sc.</a>
@@ -26,7 +26,7 @@
             </div>
             <div class="absatz">
                 <p>
-                    Während des Studiums haben wir ein einjähriges Projekt namens<br>
+                    Während des Studiums haben wir ein einjähriges Projekt namens
                     <a href="https://gitlab.dit.htwk-leipzig.de/projekt2023-s-self-service-text-mining" target="_blank"
                         rel="noopener noreferrer">
                         Self-Service Text Mining</a>
@@ -50,8 +50,7 @@
                     Neben der Zeit, die ich am Computer verbringe, bin ich gerne aktiv und gehe zum Bouldern, Sqashen,
                     Fitness und genieße die Natur.
                     Ich schaue gerne CounterStrike 2 Esport und lese viel über meine Passion
-                    <a href="https://hyperbitcoinization.com/" target="_blank" rel="noopener noreferrer">Bitcoin</a>
-                    .
+                    <a href="https://hyperbitcoinization.com/" target="_blank" rel="noopener noreferrer">Bitcoin</a>.
                 </p>
             </div>
         </div>
@@ -105,6 +104,7 @@ export default {
 
 a {
     text-decoration: none;
+    white-space: nowrap;
     position: relative;
     color: black;
 }
