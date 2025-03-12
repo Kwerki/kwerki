@@ -77,12 +77,12 @@ export default {
 @media (max-width: 1024px) { 
     .container {
         margin: 0 auto;  
-        text-align: center; 
+        text-align: right;
         padding: 20px; 
     }
 
     .headline_1 h1 {
-        justify-content: center; 
+        justify-content: flex-end;; 
     }
 }
 
