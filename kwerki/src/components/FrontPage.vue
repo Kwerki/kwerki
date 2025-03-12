@@ -40,7 +40,7 @@
                     Inbegriffen war auch ein Praktikum, welches ich bei
                     <a href="https://alvara.eu/de/home" target="_blank" rel="noopener noreferrer">ALVARA Digital
                         Solutions</a>
-                    gemacht habe. Dort habe ich als Backend Java Entwickler gearbeitet und auch meine
+                    gemacht habe. Dort habe ich als Backend Java Entwickler gearbeitet und meine
                     <a href="/bachelorarbeit.pdf" target="_blank">Bachelorarbeit</a>
                     über die Integration des Elster Rich Client in Java Cloud Applikationen geschrieben.
                 </p>
