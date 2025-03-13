@@ -11,7 +11,7 @@
             </h1>
         </div>
         <div class="headline_2">
-            <h1>Mein Name ist Paul Hublitz.</h1>
+            <h1>Mein Name ist <span style="white-space: nowrap;">Paul Hublitz</span>.</h1>
         </div>
         <div class="introducing">
             <div class="absatz">
@@ -81,8 +81,9 @@ export default {
     }
 
     .headline_1 h1 {
-        justify-content: flex-end;; 
+        justify-content: flex-end;
     }
+
 }
 
 .headline_1 {

@@ -5,7 +5,7 @@ import vueDevTools from 'vite-plugin-vue-devtools'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: "/kwerki/", 
+  base: "/", // Fix: Root-Path setzen!
   plugins: [
     vue(),
     vueDevTools(),
